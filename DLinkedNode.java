@@ -1,6 +1,5 @@
 /**
  * This class represents the nodes of a doubly linked list that you will use to implement the priority queue
- * @author skullar5
  *
  * @param <T>
  */
