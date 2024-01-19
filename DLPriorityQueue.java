@@ -1,6 +1,5 @@
 /**
  * This class will implement all the methods in the PriorityQueeuADT.java interface plus the method getRear and it will store data items of priority queue in doubly linked list
- * @author skullar5
  *
  * @param <T>
  */
