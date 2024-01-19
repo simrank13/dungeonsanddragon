@@ -1,6 +1,5 @@
 /**
  * this class implements algorithm to compute shortest path from initial chamber to exit
- * @author skullar5
  *
  */
 public class FindShortestPath {
